@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">30 Days of Video Games</string>
+    <string name="day_format">Day %d</string>
+    <string name="detail_title">Game Details</string>
+
+    <string name="tip_title_1">The Legend of Zelda</string>
+    <string name="tip_desc_1">Master Sword secrets</string>
+    <string name="tip_full_1">The Master Sword only reaches full power when you have 13 heart containers. It never breaks against Ganon\'s attacks and deals double damage in dungeons.</string>
+
+    <string name="tip_title_2">Minecraft</string>
+    <string name="tip_desc_2">Diamond farming</string>
+    <string name="tip_full_2">Diamonds spawn most frequently at Y-level -59. Use branch mining with 2-block spacing for maximum efficiency. Fortune III enchantment gives up to 4 diamonds per ore.</string>
+
+    <string name="tip_title_3">Dark Souls</string>
+    <string name="tip_desc_3">Parry timing</string>
+    <string name="tip_full_3">Parry when the enemy\'s hand starts moving toward you, not when the weapon swings. Practice on Silver Knights in Anor Londo for perfect timing.</string>
+
+    <string name="tip_title_4">Stardew Valley</string>
+    <string name="tip_desc_4">Ancient Fruit strategy</string>
+    <string name="tip_full_4">Plant Ancient Fruit in your greenhouse and turn all harvests into seeds until full. Then plant them on Ginger Island for year-round profit.</string>
+
+    <string name="tip_title_5">Fortnite</string>
+    <string name="tip_desc_5">Building tips</string>
+    <string name="tip_full_5">Use pyramid pieces for quick cover. Edit them into ramps or walls. Practice 90s in creative mode: wall, ramp, floor, jump, turn, repeat.</string>
+
+    <string name="tip_title_6">Red Dead Redemption 2</string>
+    <string name="tip_desc_6">Legendary animals</string>
+    <string name="tip_full_6">Use cover scent lotion and approach from downwind. The Legendary Buck trinket improves pelt quality of all animals you hunt.</string>
+
+    <string name="tip_title_7">Super Mario Odyssey</string>
+    <string name="tip_desc_7">Moon hunting</string>
+    <string name="tip_full_7">Check the bird nest on top of buildings, ground pound suspicious patches, and talk to all Toads. Hint Toad gives directions to hidden Moons.</string>
+
+    <string name="tip_title_8">Cyberpunk 2077</string>
+    <string name="tip_desc_7">Quickhacking</string>
+    <string name="tip_full_7">Max out Intelligence for legendary quickhacks. Contagion + Overheat combo spreads to nearby enemies. Ping reveals all enemies through walls.</string>
+
+    <string name="tip_title_9">Hollow Knight</string>
+    <string name="tip_desc_9">Geo farming</string>
+    <string name="tip_full_9">Farm the room with the two Great Husk Sentries in Kingdom\'s Edge. Use Gathering Swarm and Fragile Greed for maximum Geo per hour.</string>
+
+    <string name="tip_title_10">Among Us</string>
+    <string name="tip_desc_10">Crewmate strategies</string>
+    <string name="tip_full_10">Always watch cams when possible, memorize common tasks, and call emergency meetings when you see someone acting suspiciously.</string>
+
+    <string name="tip_title_11">Elden Ring</string>
+    <string name="tip_desc_11">Rune farming</string>
+    <string name="tip_full_11">Use the Sacred Relic Sword\'s Wave of Gold at Mohgwyn Palace. Early game: kill the sleeping dragon in Caelid with a bleed weapon.</string>
+
+    <string name="tip_title_12">Valorant</string>
+    <string name="tip_desc_12">Crosshair placement</string>
+    <string name="tip_full_12">Always keep crosshair at head level while moving. Pre-aim common angles and corners. Counter-strafe to stop instantly for accurate shots.</string>
+
+    <string name="tip_title_13">Animal Crossing</string>
+    <string name="tip_desc_13">Bell farming</string>
+    <string name="tip_full_13">Plant 10,000 Bells in the glowing spot for a guaranteed 30,000 Bell tree. Dig up the money tree and replant elsewhere after harvesting.</string>
+
+    <string name="tip_title_14">God of War</string>
+    <string name="tip_desc_14">Nornir chests</string>
+    <string name="tip_full_14">Look for three rune bells or braziers nearby. Hit them in the right order before time runs out for Idunn Apples and Horns of Blood Mead.</string>
+
+    <string name="tip_title_15">League of Legends</string>
+    <string name="tip_desc_15">Wave management</string>
+    <string name="tip_full_15">Slow push by killing only ranged minions. Freeze wave by keeping 4 enemy casters alive. Crash wave with cannon for recall timing.</string>
+
+    <string name="tip_title_16">Portal 2</string>
+    <string name="tip_desc_16">Portal surfaces</string>
+    <string name="tip_full_16">White surfaces are portalable. Use momentum through portals for long jumps. Blue goes to orange - remember conservation of momentum.</string>
+
+    <string name="tip_title_17">Skyrim</string>
+    <string name="tip_desc_17">Smithing guide</string>
+    <string name="tip_full_17">Make gold rings from transmuted ore, then improve them with gems. Fortify Smithing potions and enchantments stack for legendary gear.</string>
+
+    <string name="tip_title_18">Overwatch 2</string>
+    <string name="tip_desc_18">Ultimate tracking</string>
+    <string name="tip_full_18">Track enemy support ultimates by remembering last usage. Zenyatta gets ult every 2-3 team fights. Combo ults for wipes.</string>
+
+    <string name="tip_title_19">Celeste</string>
+    <string name="tip_desc_19">Strawberry tips</string>
+    <string name="tip_full_19">Wavedashing: dash diagonally down into ground and jump immediately. Extended super: dash forward, jump at peak of slide.</string>
+
+    <string name="tip_title_20">Genshin Impact</string>
+    <string name="tip_desc_20">Resin management</string>
+    <string name="tip_full_20">Use condensed resin for double rewards. Save fragile resin until AR45 for guaranteed 5-star artifacts. Farm ley lines for mora on double reward events.</string>
+
+    <string name="tip_title_21">Resident Evil 4</string>
+    <string name="tip_desc_21">Merchant deals</string>
+    <string name="tip_full_21">Sell gems when combined with crown/treasure for bonus. Upgrade main weapon first, then shotgun. Always buy rocket launcher for bosses.</string>
+
+    <string name="tip_title_22">Rocket League</string>
+    <string name="tip_desc_22">Rotation basics</string>
+    <string name="tip_full_22">Rotate back post on defense, grab small boost pads, and never double commit. Watch your teammate\'s position before challenging.</string>
+
+    <string name="tip_title_23">Undertale</string>
+    <string name="tip_desc_23">Pacifist route</string>
+    <string name="tip_full_23">Spare every enemy, date Papyrus and Undyne, deliver letter to Alphys. Don\'t kill anyone, even if it\'s harder.</string>
+
+    <string name="tip_title_24">Call of Duty</string>
+    <string name="tip_desc_24">Movement mechanics</string>
+    <string name="tip_full_24">Slide cancel to reset tac sprint. Jump shot around corners. Use mount for reduced recoil. Pre-aim common headglitches.</string>
+
+    <string name="tip_title_25">Hades</string>
+    <string name="tip_desc_25">Boons guide</string>
+    <string name="tip_full_25">Aphrodite on attack for damage, Athena on dash for deflecting, Artemis on special for crits. Keep nectar for companion unlocks.</string>
+
+    <string name="tip_title_26">The Witcher 3</string>
+    <string name="tip_desc_26">Gwent tips</string>
+    <string name="tip_full_26">Build Northern Realms with Foltest, use spies and decoys, save scorch for tight bonds. Buy all cards from innkeeps.</string>
+
+    <string name="tip_title_27">Apex Legends</string>
+    <string name="tip_desc_27">Looting priority</string>
+    <string name="tip_full_27">Grab backpack first, then weapon, then armor. Upgrade as you go. Listen for supply bins and ping everything for teammates.</string>
+
+    <string name="tip_title_28">Shovel Knight</string>
+    <string name="tip_desc_28">Armor choices</string>
+    <string name="tip_full_28">Use Phase Locket for invincibility, Mobile Gear for speed, and fishing rod for extra gems. Save music sheets for the bard.</string>
+
+    <string name="tip_title_29">World of Warcraft</string>
+    <string name="tip_desc_29">Addon essentials</string>
+    <string name="tip_full_29">Deadly Boss Mods for raid mechanics, Details! for damage meters, WeakAuras for cooldown tracking, and Pawn for gear comparison.</string>
+
+    <string name="tip_title_30">Persona 5</string>
+    <string name="tip_desc_30">Confidant guide</string>
+    <string name="tip_full_30">Always carry matching persona for bonus points. Focus on Temperance and Fortune for more free time. Rank up Maruki for third semester.</string>
+</resources>
