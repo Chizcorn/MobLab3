@@ -7,4 +7,15 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Gaming theme colors -->
+    <color name="primaryColor">#6C3483</color>
+    <color name="primaryLightColor">#9B59B6</color>
+    <color name="primaryDarkColor">#4A235A</color>
+    <color name="secondaryColor">#F39C12</color>
+    <color name="secondaryLightColor">#F7DC6F</color>
+    <color name="secondaryDarkColor">#B7950B</color>
+    <color name="primaryTextColor">#FFFFFF</color>
+    <color name="secondaryTextColor">#ECF0F1</color>
+    <color name="cardBackgroundColor">#2C3E50</color>
 </resources>

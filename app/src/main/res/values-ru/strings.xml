@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">30 дней видеоигр</string>
+    <string name="day_format">День %d</string>
+    <string name="detail_title">Детали игры</string>
+
+    <string name="tip_title_1">The Legend of Zelda</string>
+    <string name="tip_desc_1">Секреты Меча Мастера</string>
+    <string name="tip_full_1">Меч Мастера достигает полной силы только при 13 сердечках здоровья. Он никогда не ломается против атак Ганона и наносит двойной урон в подземельях.</string>
+
+    <string name="tip_title_2">Minecraft</string>
+    <string name="tip_desc_2">Добыча алмазов</string>
+    <string name="tip_full_2">Алмазы чаще всего появляются на уровне Y -59. Используйте ветвистую шахту с расстоянием в 2 блока. Зачарование Удача III дает до 4 алмазов с руды.</string>
+
+    <string name="tip_title_3">Dark Souls</string>
+    <string name="tip_desc_3">Тайминг парирования</string>
+    <string name="tip_full_3">Парируйте, когда рука врага начинает двигаться к вам, а не когда оружие замахивается. Тренируйтесь на Серебряных рыцарях в Анор Лондо.</string>
+
+    <string name="tip_title_4">Stardew Valley</string>
+    <string name="tip_desc_4">Стратегия с древними плодами</string>
+    <string name="tip_full_4">Сажайте древние плоды в теплице и превращайте весь урожай в семена. Затем посадите их на Острове Имбиря для круглогодичной прибыли.</string>
+
+    <string name="tip_title_5">Fortnite</string>
+    <string name="tip_desc_5">Советы по строительству</string>
+    <string name="tip_full_5">Используйте пирамиды для быстрого укрытия. Редактируйте их в стены или рампы. Тренируйте 90-е в креативном режиме.</string>
+
+    <string name="tip_title_6">Red Dead Redemption 2</string>
+    <string name="tip_desc_6">Легендарные животные</string>
+    <string name="tip_full_6">Используйте маскировочный лосьон и подходите с подветренной стороны. Брелок легендарного оленя улучшает качество шкур всех животных.</string>
+
+    <string name="tip_title_7">Super Mario Odyssey</string>
+    <string name="tip_desc_7">Охота за лунами</string>
+    <string name="tip_full_7">Проверяйте птичьи гнезда на зданиях, прыгайте на подозрительные участки земли и говорите со всеми Тоадами.</string>
+
+    <string name="tip_title_8">Cyberpunk 2077</string>
+    <string name="tip_desc_8">Быстрый взлом</string>
+    <string name="tip_full_8">Максимизируйте Интеллект для легендарных взломов. Комбо Зараза + Перегрев распространяется на врагов. Пинг показывает всех врагов сквозь стены.</string>
+
+    <string name="tip_title_9">Hollow Knight</string>
+    <string name="tip_desc_9">Фарм гео</string>
+    <string name="tip_full_9">Фармите комнату с двумя стражами в Крае Королевства. Используйте Рой Сборщиков и Хрупкую Алчность для максимума гео.</string>
+
+    <string name="tip_title_10">Among Us</string>
+    <string name="tip_desc_10">Стратегии члена экипажа</string>
+    <string name="tip_full_10">Всегда смотрите в камеры, запоминайте общие задания и созывайте собрания при подозрительном поведении.</string>
+
+    <!-- Продолжите для всех 30 советов аналогично... -->
+</resources>
